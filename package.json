@@ -1,0 +1,15 @@
+{
+  "name": "experimental-node-dev-esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node-dev ./index.mjs"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "node-dev": "^7.0.0"
+  }
+}
